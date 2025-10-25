@@ -1,0 +1,109 @@
+Setting NOW to 2024-04-29T09:00:00+00:00[Europe/London]
+Setting SHOW_COMMENTS to TRUE
+Setting WELCOME_MESSAGE to TRUE
+Setting EXIT_MESSAGE to TRUE
+Setting SHOW_CONFIG_STATUS to TRUE
+Setting ASSIGNMENT_FILE_LOADING to TRUE
+Setting ASSIGNMENT_ITEM_PROCESSING to TRUE
+Setting IGNORE_INCOMPLETE_ASSIGNMENTS to TRUE
+Setting OUTPUT_TYPE to DAILY
+this is a full basic configuration
+Application settings
+ASSIGNMENT_FILE_LOADING: TRUE
+ASSIGNMENT_ITEM_PROCESSING: TRUE
+EXIT_MESSAGE: TRUE
+IGNORE_INCOMPLETE_ASSIGNMENTS: TRUE
+NOW: 2024-04-29T10:00+01:00[Europe/London]
+OUTPUT_TYPE: DAILY
+SHOW_COMMENTS: TRUE
+SHOW_CONFIG_STATUS: TRUE
+WELCOME_MESSAGE: TRUE
+Greetings
+Loading assignment from A1
+Read configuration item ConfigurationItem[filename=A1, command=NAME, data=A1, lineNumber=1]
+Read configuration item ConfigurationItem[filename=A1, command=COURSE, data=C1, lineNumber=2]
+Read configuration item ConfigurationItem[filename=A1, command=START, data=2024-04-29T09:00:00.0Z[Europe/London], lineNumber=3]
+Read configuration item ConfigurationItem[filename=A1, command=END, data=2024-05-06T12:00:00.0Z[Europe/London], lineNumber=4]
+Read configuration item ConfigurationItem[filename=A1, command=HOURS, data=14, lineNumber=5]
+Read configuration item ConfigurationItem[filename=A1, command=COMMENT, data=A1 comment a, lineNumber=6]
+Read configuration item ConfigurationItem[filename=A1, command=COMMENT, data=A1 comment b, lineNumber=7]
+Loading assignment from A2
+Read configuration item ConfigurationItem[filename=A2, command=NAME, data=A2, lineNumber=1]
+Read configuration item ConfigurationItem[filename=A2, command=COURSE, data=C1, lineNumber=2]
+Read configuration item ConfigurationItem[filename=A2, command=START, data=2024-05-01T09:00:00.0Z[Europe/London], lineNumber=3]
+Read configuration item ConfigurationItem[filename=A2, command=END, data=2024-05-10T12:00:00.0Z[Europe/London], lineNumber=4]
+Read configuration item ConfigurationItem[filename=A2, command=HOURS, data=9, lineNumber=5]
+Read configuration item ConfigurationItem[filename=A2, command=COMMENT, data=A2 comment 1, lineNumber=6]
+Read configuration item ConfigurationItem[filename=A2, command=COMMENT, data=A2 comment 2, lineNumber=7]
+Comment: A1 comment b
+Comment: A2 comment 2
+Monday, 29 April 2024
+1.8 hours on "A1" C1
+----------------
+1.8 total hours
+================
+Tuesday, 30 April 2024
+1.8 hours on "A1" C1
+----------------
+1.8 total hours
+================
+Wednesday, 1 May 2024
+1.8 hours on "A1" C1
+0.9 hours on "A2" C1
+----------------
+2.7 total hours
+================
+Thursday, 2 May 2024
+1.8 hours on "A1" C1
+0.9 hours on "A2" C1
+----------------
+2.7 total hours
+================
+Friday, 3 May 2024
+1.8 hours on "A1" C1
+0.9 hours on "A2" C1
+----------------
+2.7 total hours
+================
+Saturday, 4 May 2024
+1.8 hours on "A1" C1
+0.9 hours on "A2" C1
+----------------
+2.7 total hours
+================
+Sunday, 5 May 2024
+1.8 hours on "A1" C1
+0.9 hours on "A2" C1
+----------------
+2.7 total hours
+================
+Monday, 6 May 2024
+1.8 hours on "A1" C1
+0.9 hours on "A2" C1
+----------------
+2.7 total hours
+================
+Tuesday, 7 May 2024
+1.8 hours on "A1" C1
+0.9 hours on "A2" C1
+----------------
+2.7 total hours
+================
+Wednesday, 8 May 2024
+0.9 hours on "A2" C1
+----------------
+0.9 total hours
+================
+Thursday, 9 May 2024
+0.9 hours on "A2" C1
+----------------
+0.9 total hours
+================
+Friday, 10 May 2024
+0.9 hours on "A2" C1
+----------------
+0.9 total hours
+================
+
+Goodbye
+
